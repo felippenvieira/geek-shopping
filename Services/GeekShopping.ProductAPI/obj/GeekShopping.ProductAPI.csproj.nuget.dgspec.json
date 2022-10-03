@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "C:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "c:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "C:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "C:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "c:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "C:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
-        "outputPath": "c:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "C:\\repos\\GeekShopping\\Services\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"
