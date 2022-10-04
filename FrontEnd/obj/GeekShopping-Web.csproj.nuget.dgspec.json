@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\GeekShopping-Web.csproj": {}
+    "c:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web.csproj": {}
   },
   "projects": {
-    "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\GeekShopping-Web.csproj": {
+    "c:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\GeekShopping-Web.csproj",
+        "projectUniqueName": "c:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web.csproj",
         "projectName": "GeekShopping-Web",
-        "projectPath": "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\GeekShopping-Web.csproj",
+        "projectPath": "c:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web.csproj",
         "packagesPath": "C:\\Users\\fena\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\obj\\",
+        "outputPath": "c:\\repos\\GeekShopping\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fena\\AppData\\Roaming\\NuGet\\NuGet.Config"

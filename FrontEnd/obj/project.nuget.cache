@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFopf9AtVp7KFgadUiiS4czWUOiWU/M6swocZjXKndCerCmkVGKAE1Fqpa7H0fNW8ZNVcNKsvR3AUiVkYXZiQQ==",
+  "dgSpecHash": "n7eoCuimoCD1VOGn94E3SWAHZ1wMuRySTwlHoE2XjhnOssf6mAnIm0eOFoMIdw2Jkw+nVg0kxSBD+ovnMR6K4A==",
   "success": true,
-  "projectFilePath": "C:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web\\GeekShopping-Web.csproj",
+  "projectFilePath": "c:\\repos\\GeekShopping\\FrontEnd\\GeekShopping-Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fena\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\fena\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
